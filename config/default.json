@@ -1,0 +1,6 @@
+{
+    "mongoURL": "mongodb+srv://anikabs23:mernbs23@cluster0-udrcj.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtToken": "mySecretToken",
+    "githubClientID": "ee285eb584e8b29bdfe3",
+    "githubClientSecret": "c44617d51643a5da0b591131013550e04379f6a4"
+}
